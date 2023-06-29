@@ -1,0 +1,24 @@
+-------------------------------------------------------------------------------
+Test set: TestForCreateCourier
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 5, Skipped: 0, Time elapsed: 0.008 s <<< FAILURE! - in TestForCreateCourier
+courierCanNotBeCreatedWithoutLoginAndPasswordFields(TestForCreateCourier)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "courier.Courier.setLogin(String)" because "this.courier" is null
+	at TestForCreateCourier.courierCanNotBeCreatedWithoutLoginAndPasswordFields(TestForCreateCourier.java:55)
+
+successCreatedCourier(TestForCreateCourier)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "courier.CourierToClient.createCourier(courier.Courier)" because "this.courierToClient" is null
+	at TestForCreateCourier.successCreatedCourier(TestForCreateCourier.java:23)
+
+courierCanNotBeCreatedWithoutPasswordField(TestForCreateCourier)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "courier.Courier.setPassword(String)" because "this.courier" is null
+	at TestForCreateCourier.courierCanNotBeCreatedWithoutPasswordField(TestForCreateCourier.java:45)
+
+courierCanNotBeCreatedWithoutLoginField(TestForCreateCourier)  Time elapsed: 0.001 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "courier.Courier.setLogin(String)" because "this.courier" is null
+	at TestForCreateCourier.courierCanNotBeCreatedWithoutLoginField(TestForCreateCourier.java:35)
+
+courierCanNotBeCreatedWithTheSameData(TestForCreateCourier)  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "courier.CourierToClient.createCourier(courier.Courier)" because "this.courierToClient" is null
+	at TestForCreateCourier.courierCanNotBeCreatedWithTheSameData(TestForCreateCourier.java:66)
+
