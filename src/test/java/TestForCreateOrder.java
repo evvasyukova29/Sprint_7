@@ -11,15 +11,14 @@ import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
 import static org.hamcrest.CoreMatchers.*;
+@RunWith(Parameterized.class)
 public class TestForCreateOrder
 {
-    @RunWith(Parameterized.class)
-    public class CreateOrderTest {
         private OrderClient orderClient;
         private final String[] color;
         int track;
 
-        public CreateOrderTest(String[] color)
+        public TestForCreateOrder(String[] color)
         {
             this.color = color;
         }
@@ -29,10 +28,12 @@ public class TestForCreateOrder
             orderClient = new OrderClient();
         }
 
-        @Parameterized.Parameters(name = "Цвет самоката: {0}")
-        public Object[][] getData() {
-            return new Object[][]{
-                    {new String[]{"BLACK"}},
+        @Parameterized.Parameters(name = "Цвет: {0}")
+        public static Object[] getData()
+        {
+            return new Object[][]
+            {
+                    {new String[]{"GREEN"}},
                     {new String[]{"GRAY"}},
                     {new String[]{"BLACK", "GRAY"}},
                     {new String[]{}}
@@ -57,4 +58,3 @@ public class TestForCreateOrder
             orderClient.cancelOrder(track);
         }
     }
-}

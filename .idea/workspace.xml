@@ -4,54 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20252a11-1796-4277-a2ca-292fe37bd061" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/client/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courier/Courier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courier/CourierToClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courier/GeneratorForCourier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courier/LoginDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/courier/StatusForCourier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestForCreateCourier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestForCreateOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestForGetOrderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestForLoginCourier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/262da9c4-c050-40cb-b082-5c1434e700df-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/2d8b9bbd-d1c6-4e25-bc77-3fa33cf9c405-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/4533d642-9362-4896-aefe-fb38d9130175-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/4cf9ca13-b890-408e-9f6e-ef360c7eda90-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/5975db1e-f087-4eae-b708-4133335e858b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/7de43cdd-0745-44f3-a8d3-434b0fa2bdaa-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/918dd16e-0599-4f3f-beb9-3cb8ff108e18-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/c91704e0-42c0-4380-9763-9702e882c264-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/ccd81422-a0a0-4524-a3cd-8144c81f9d95-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/f46b334a-5b21-498f-b223-75cd6674a5c0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/allure-results/fa6700de-6dbc-4e35-99a2-56f293bc4af3-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/client/Client.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/courier/Courier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/courier/CourierToClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/courier/GeneratorForCourier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/courier/LoginDetails.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/courier/StatusForCourier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/order/Order.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/order/OrderClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForCreateCourier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForGetOrderList.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForLoginCourier.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestForCreateCourier.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestForGetOrderList.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestForLoginCourier.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateCourier.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder$CreateOrderTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestForGetOrderList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/TestForLoginCourier.class" afterDir="false" />
+    <list default="true" id="20252a11-1796-4277-a2ca-292fe37bd061" name="Changes" comment="All Project">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/courier/CourierToClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/courier/CourierToClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/courier/StatusForCourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/courier/StatusForCourier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestForCreateCourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestForCreateCourier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestForCreateOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestForCreateOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/262da9c4-c050-40cb-b082-5c1434e700df-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/2d8b9bbd-d1c6-4e25-bc77-3fa33cf9c405-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4533d642-9362-4896-aefe-fb38d9130175-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4cf9ca13-b890-408e-9f6e-ef360c7eda90-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/5975db1e-f087-4eae-b708-4133335e858b-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7de43cdd-0745-44f3-a8d3-434b0fa2bdaa-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/918dd16e-0599-4f3f-beb9-3cb8ff108e18-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c91704e0-42c0-4380-9763-9702e882c264-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/ccd81422-a0a0-4524-a3cd-8144c81f9d95-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f46b334a-5b21-498f-b223-75cd6674a5c0-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/fa6700de-6dbc-4e35-99a2-56f293bc4af3-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/courier/CourierToClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/courier/CourierToClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/courier/StatusForCourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/courier/StatusForCourier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/order/OrderClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/order/OrderClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForCreateCourier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForGetOrderList.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForLoginCourier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestForCreateCourier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestForGetOrderList.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestForLoginCourier.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestForCreateCourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateCourier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder$CreateOrderTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +47,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -80,6 +70,33 @@
     &quot;last_opened_file_path&quot;: &quot;/Users/evvasyukova/IdeaProjects/Sprint_7&quot;
   }
 }</component>
+  <component name="RunManager" selected="JUnit.TestForCreateCourier">
+    <configuration name="TestForCreateCourier" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForCreateCourier" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestForCreateCourier.courierCanNotBeCreatedWithTheSameData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Sprint_7" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestForCreateCourier" />
+      <option name="METHOD_NAME" value="courierCanNotBeCreatedWithTheSameData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestForCreateCourier" />
+        <item itemvalue="JUnit.TestForCreateCourier.courierCanNotBeCreatedWithTheSameData" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -89,6 +106,14 @@
       <option name="presentableId" value="Default" />
       <updated>1688039316081</updated>
     </task>
+    <task id="LOCAL-00001" summary="All Project">
+      <created>1688040421114</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688040421114</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,5 +126,24 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="All Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="All Project" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/TestForCreateCourier.java</url>
+          <line>70</line>
+          <properties class="TestForCreateCourier" method="courierCanNotBeCreatedWithTheSameData">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

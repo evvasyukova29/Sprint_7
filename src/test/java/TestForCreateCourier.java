@@ -12,8 +12,15 @@ public class TestForCreateCourier
     private CourierToClient courierToClient;
     private Courier courier;
     private StatusForCourier statusForCourier;
-    private LoginDetails loginDetails;
     int idCourier;
+
+    @Before
+    @Step("Предварительные условия для создания тестов")
+    public void setUp() {
+        courierToClient = new CourierToClient();
+        courier = generatorForCourier.getRandomValue();
+        statusForCourier = new StatusForCourier();
+    }
 
     @Test
     @DisplayName("Creating a new courier")

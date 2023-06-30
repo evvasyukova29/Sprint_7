@@ -24,7 +24,8 @@ public class CourierToClient extends Client
                         .body(courier)
                         .when()
                         //.post("/api/v1/courier").then();
-                        .post(COURIER_CREATE).then();
+                        .post(COURIER_CREATE)
+                        .then();
 
     }
     @Step("Authorization courier in the system")
@@ -35,7 +36,8 @@ public class CourierToClient extends Client
                         .spec(getSpecification())
                         .body(loginDetails)
                         .when()
-                        .post(COURIER_LOGIN).then();
+                        .post(COURIER_LOGIN)
+                        .then();
     }
 
     @Step("Delete courier in the system")

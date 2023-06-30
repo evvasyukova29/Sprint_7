@@ -3,8 +3,6 @@ package order;
 import io.qameta.allure.Step;
 import io.restassured.response.ValidatableResponse;
 import client.Client;
-import io.restassured.specification.RequestSpecification;
-import order.Order;
 import static io.restassured.RestAssured.given;
 public class OrderClient extends Client
 {
