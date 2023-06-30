@@ -4,42 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20252a11-1796-4277-a2ca-292fe37bd061" name="Changes" comment="All Project">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/courier/CourierToClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/courier/CourierToClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/courier/StatusForCourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/courier/StatusForCourier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/order/OrderClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestForCreateCourier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestForCreateCourier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestForCreateOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestForCreateOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/262da9c4-c050-40cb-b082-5c1434e700df-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2d8b9bbd-d1c6-4e25-bc77-3fa33cf9c405-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/4533d642-9362-4896-aefe-fb38d9130175-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/4cf9ca13-b890-408e-9f6e-ef360c7eda90-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5975db1e-f087-4eae-b708-4133335e858b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/7de43cdd-0745-44f3-a8d3-434b0fa2bdaa-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/918dd16e-0599-4f3f-beb9-3cb8ff108e18-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/c91704e0-42c0-4380-9763-9702e882c264-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ccd81422-a0a0-4524-a3cd-8144c81f9d95-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/f46b334a-5b21-498f-b223-75cd6674a5c0-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/fa6700de-6dbc-4e35-99a2-56f293bc4af3-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/courier/CourierToClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/courier/CourierToClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/courier/StatusForCourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/courier/StatusForCourier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/order/OrderClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/order/OrderClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForCreateCourier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForGetOrderList.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-TestForLoginCourier.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestForCreateCourier.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestForGetOrderList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TestForLoginCourier.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestForCreateCourier.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateCourier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder$CreateOrderTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestForCreateOrder.class" afterDir="false" />
-    </list>
+    <list default="true" id="20252a11-1796-4277-a2ca-292fe37bd061" name="Changes" comment="Second Commit: Allure" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1688040421114</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second Commit: Upgrade after review">
+      <created>1688108141826</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688108141826</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second Commit: Allure">
+      <created>1688108210612</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688108210612</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -129,7 +108,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="All Project" />
+    <MESSAGE value="Second Commit: Upgrade after review" />
+    <MESSAGE value="Second Commit: Allure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second Commit: Allure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
